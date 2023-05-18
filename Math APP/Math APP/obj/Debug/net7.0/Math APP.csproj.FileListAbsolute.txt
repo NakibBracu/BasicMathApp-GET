@@ -1,0 +1,26 @@
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\bin\Debug\net7.0\appsettings.Development.json
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\bin\Debug\net7.0\appsettings.json
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\bin\Debug\net7.0\Math APP.exe
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\bin\Debug\net7.0\Math APP.deps.json
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\bin\Debug\net7.0\Math APP.runtimeconfig.json
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\bin\Debug\net7.0\Math APP.dll
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\bin\Debug\net7.0\Math APP.pdb
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\Math APP.csproj.AssemblyReference.cache
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\Math APP.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\Math APP.AssemblyInfoInputs.cache
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\Math APP.AssemblyInfo.cs
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\Math APP.csproj.CoreCompileInputs.cache
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\Math APP.MvcApplicationPartsAssemblyInfo.cache
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\staticwebassets\msbuild.Math APP.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\staticwebassets\msbuild.build.Math APP.props
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Math APP.props
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Math APP.props
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\staticwebassets.pack.json
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\staticwebassets.build.json
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\staticwebassets.development.json
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\scopedcss\bundle\Math APP.styles.css
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\Math APP.dll
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\refint\Math APP.dll
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\Math APP.pdb
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\Math APP.genruntimeconfig.cache
+E:\.net_Core_Ultimate_Guide_Udemy\Section 3\MATH APP\Math APP\Math APP\obj\Debug\net7.0\ref\Math APP.dll
